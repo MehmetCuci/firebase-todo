@@ -1,0 +1,13 @@
+.navbar{
+    border-radius: 0px!important;
+}
+
+.w100{
+    width:100px;
+}
+body{
+    background-color: #dddddd;
+}
+.well{
+    box-shadow: 0 20px 40px -15px rgba(0,0,0,0.3);;
+}
